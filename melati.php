@@ -23,7 +23,7 @@ body {
         </tr>
         <tr>
             <td>1</td>
-            <td><img src="assets/image/jasminummensyi.jpg" alt="ilang" style="width:300px;height:150px;"></td>
+            <td><img src="assets/image/jasminummesnyi.jpg" alt="ilang" style="width:300px;height:150px;"></td>
             <td>Melati Primrose (Jasminum mensyi)</td>
             <td><p>Asalnya dari negeri tirai bambu, Cina. Tanaman ini termasuk semak bercabang dengan bunga berwarna kuning terang.
                 Mereka tidak menghasilkan buah. Bunganya memiliki mahkota ganda dan memiliki nama latin lain, yakni Jasminum primulinum.</p></td>
