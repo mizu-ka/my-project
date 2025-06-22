@@ -23,7 +23,7 @@ body {
         </tr>
         <tr>
             <td>1</td>
-            <td><img src="jasminummesnyiherb1.jpg" alt="ilang" style="width:300px;height:150px;"></td>
+            <td><img src="assets/image/jasminummensyi.jpg" alt="ilang" style="width:300px;height:150px;"></td>
             <td>Melati Primrose (Jasminum mensyi)</td>
             <td><p>Asalnya dari negeri tirai bambu, Cina. Tanaman ini termasuk semak bercabang dengan bunga berwarna kuning terang.
                 Mereka tidak menghasilkan buah. Bunganya memiliki mahkota ganda dan memiliki nama latin lain, yakni Jasminum primulinum.</p></td>
@@ -31,7 +31,7 @@ body {
         </tr>
         <tr>
             <td>2</td>
-            <td><img src="41e1LA0W3jL.jpg" alt="ilang" style="width:300px;height:150px;"></td>
+            <td><img src="assets/image/Jasminummultiflorum.jpg" alt="ilang" style="width:300px;height:150px;"></td>
             <td>Jasminum Multiflorum</td>
             <td><p>Jenis ini tumbuh merambat antara 2 sampai 10 meter. 
                 Beberapa ada yang batang dannnya berbulu. Saat mekar bunganya cukup lebat dan berkelompok. 
@@ -42,7 +42,7 @@ body {
         </tr>
         <tr>
             <td>3</td>
-            <td><img src="t600x362.jpg" alt="ilang" style="width:300px;height:150px;"></td>
+            <td><img src="assets/image/kasablanka.jpg" alt="ilang" style="width:300px;height:150px;"></td>
             <td>Melati Spanyol atau Kasablanka</td>
             <td><p>Nama latinnya adalah Jasminum officinale. 
                 Kita sering menyebutnya sebagai melati Spanyol padahal asal mereka dari dataran Cina dan India. 

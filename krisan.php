@@ -24,7 +24,7 @@ body {
         </tr>
         <tr>
             <td>1</td>
-            <td><img src="5f792b3da6c37d086652b2cd6186f6bf.jpg" alt="ilang" style="width:150px;height:150px;"></td>
+            <td><img src="assets/image/singlebloom.jpg" alt="ilang" style="width:150px;height:150px;"></td>
             <td>Single Bloom</td>
             <td>Penampakannya mirip bunga aster karena warna kelopaknya yang putih dengan warna kuning di bagian tengahnya.
                 Hanya saja warna kuning di bagian tengahnya lebih besar dibanding bunga aster.
@@ -33,7 +33,7 @@ body {
         </tr>
         <tr>
             <td>2</td>
-            <td><img src="1-Pcs-Buatan-Tunggal-Cabang-Laba-laba-Besar-Krisan-Simulasi-Bunga-Pernikahan-Dekorasi-untuk-Rumah-Pesta.jpg_640x640.jpg" alt="ilang" style="width:150px;height:150px;"></td>
+            <td><img src="assets/image/krisanlabalaba.jpg" alt="ilang" style="width:150px;height:150px;"></td>
             <td>Krisan Laba-laba</td>
             <td>Dinamakan krisan laba-laba karena kelopak mereka yang ramping dengan ujung melengkung. 
                 Melihatnya akan mengingatkan kita pada kaki laba-laba yang juga ramping.
@@ -44,7 +44,7 @@ body {
         </tr>
         <tr>
             <td>3</td>
-            <td><img src="bibit_tanaman_Bunga_Krisan_Ungu.jpg" alt="ilang" style="width:150px;height:150px;"></td>
+            <td><img src="assets/image/Krisanlurus.jpg" alt="ilang" style="width:150px;height:150px;"></td>
             <td>Krisan Lurus</td>
             <td>Sebagian besar jenis krisan memiliki kelopak yang melengkung entah keluar maupun kedalam. 
                 Namun, ada juga jenis krisan yang kelopaknya lurus-lurus saja.

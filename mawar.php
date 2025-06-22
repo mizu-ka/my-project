@@ -24,7 +24,7 @@ body {
         </tr>
         <tr>
             <td>1</td>
-            <td><img src="2048x1365-Native-flowers-GettyImages-1156711438-4f7f7a9.jpg" alt="ilang" style="width:300px;height:150px;"></td>
+            <td><img src="assets/image/Wildrose.jpg" alt="ilang" style="width:300px;height:150px;"></td>
             <td>Bunga Mawar Liar atau Wild Rose</td>
             <td><p>Kelompok tanaman mawar liar dapat ditemukan tumbuh secara bebas di alam liar serta sudah ada sejak dahulu kala.
                 Karena dapat tumbuh dengan bebas di alam liar, tanaman mawar liar ini memiliki ketahanan tubuh yang kuat terhadap hama dan serangan predator.
@@ -37,7 +37,7 @@ body {
         </tr>
         <tr>
             <td>2</td>
-            <td><img src="bunga-mawar-hitam.jpg" alt="ilang" style="width:300px;height:150px;"></td>
+            <td><img src="assets/image/Oldgardenrose.jpg" alt="ilang" style="width:300px;height:150px;"></td>
             <td>Mawar di Taman Kuno (Old Garden Rose)</td>
             <td><p>Karakteristik utama dari tanaman mawar taman kuno yakni bentuk bunganya yang cukup besar dan memiliki banyak tumpukan kelopak bunga.
                 Bentuknya yang sangat rumit justru membuat bunga ini tampak sangat elegan dan juga cantik.
@@ -47,7 +47,7 @@ body {
         </tr>
         <tr>
             <td>3</td>
-            <td><img src="bunga-mawar-artinya.jpg" alt="ilang" style="width:300px;height:150px;"></td>
+            <td><img src="assets/image/mawarmusk.jpg" alt="ilang" style="width:300px;height:150px;"></td>
             <td>Mawar Musk</td>
             <td><p>Mawar berjenis musk sudah lama dibudidayakan di beberapa negara sejak abad keenam belas.
                 Mawar berjenis musk termasuk ke dalam golongan tanaman mawar yang tumbuh secara merambat dengan panjangnya bisa mencapai tiga sampai sepuluh meter.

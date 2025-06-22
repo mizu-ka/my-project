@@ -24,7 +24,7 @@ body {
         </tr>
         <tr>
             <td>1</td>
-            <td><img src="14b1cc4b6bf30114f6ad5f177f5a678e.jpg" alt="ilang" style="width:300px;height:150px;"></td>
+            <td><img src="assets/image/Liliumbosniacum.jpg" alt="ilang" style="width:300px;height:150px;"></td>
             <td>Lilium bosniacum</td>
             <td>Di negara asalnya, yaitu Bosnia dan Herzegovina mereka sering disebut sebagai Zlatni ljiljan (lily emas) atau Bosanski ljiljan (lily Bosnia).
                 Lily emas Bosnia merupakan simbol dari kerajaan Bosnia dan rakyatnya. Itu dapat terlihat dari bendera serta seragam militer mereka.
@@ -36,7 +36,7 @@ body {
         </tr>
         <tr>
             <td>2</td>
-            <td style = "text-align:center"><img src="7696347ae113c8e334620425e670541b.jpg" alt="ilang" style="width:150px;height:150px;"></td>
+            <td style = "text-align:center"><img src="assets/image/Liliumbulbiferum.jpg" alt="ilang" style="width:150px;height:150px;"></td>
             <td>Lilium bulbiferum</td>
             <td>Termasuk jenis lily yang sangat cantik karena kelopaknya yang merekah sempurna seperti matahari saat fajar. 
                 Panjang mahkotanya sekitar 5 – 8 cm dengan ujungnya yang berwarna kemerahan.
@@ -52,7 +52,7 @@ body {
         </tr>
         <tr>
             <td>3</td>
-            <td style = "text-align:center"><img src="61q3k3G0rtL._AC_SY450_.jpg" alt="ilang" style="width:150px;height:150px;"></td>
+            <td style = "text-align:center"><img src="assets/image/Lilyumcandidum.jpg" alt="ilang" style="width:150px;height:150px;"></td>
             <td>Lilyum candidum</td>
             <td>Ingat penyanyi Madonna kan? Ternyata nama Madonna ada juga pada jenis bunga lily. 
                 Warnanya putih bersih dan sangat disukai oleh burung kolibri maupun kupu-kupu.
